@@ -2,7 +2,7 @@
 layout: post
 title: What are the General Terms and Conditions?
 categories:
-  - Law of Obligation
+  - Law of Obligations
 tags: 
   - contracts
   - general terms 
