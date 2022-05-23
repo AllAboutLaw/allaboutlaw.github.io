@@ -5,8 +5,8 @@ highlighter:      rouge
 # Setup
 title:            AllAboutLaw
 tagline:          'Non nostrud pariatur nulla et pariatur aute qui incididunt ut minim non dolore.'
-description:      'Definitions and Articles about Law'
-url:              https://www.example.com
+description:      'Articles about Law'
+url:              https://allaboutlaw.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
