@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            AllAboutLaw
-tagline:          'Non nostrud pariatur nulla et pariatur aute qui incididunt ut minim non dolore.'
+tagline:          'Articles and Definitions'
 description:      'Articles about Law'
 url:              https://allaboutlaw.github.io
 baseurl:          '/'
