@@ -4,7 +4,7 @@ title: What is Contract Law?
 categories:
   - Private Law
 tags:
-  - contract
+  - contracts
   - legal system
   - private law
   - public law

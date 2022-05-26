@@ -17,16 +17,16 @@ h6,
 }
 
 h1 {
-  font-size: 1.50rem;
+  font-size: 1.5rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   margin-top: 1rem;
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1rem;
   margin-top: 1.5rem;
 }
 
@@ -71,7 +71,7 @@ hr {
 
 abbr {
   color: #555;
-  font-size: 85%;
+  font-size: 55%;
   font-weight: bold;
   text-transform: uppercase;
 
@@ -121,8 +121,9 @@ a[href^='#fnref:'] {
 // Extend paragraphs with `.lead` for larger introductory text.
 
 .lead {
-  font-size: 1.10rem;
-  font-weight: 300;
+  font-size: 1.2rem;
+  font-weight: 50;
+  font-family: 'Lobster Two', cursive;
 }
 
 // SVG Icons

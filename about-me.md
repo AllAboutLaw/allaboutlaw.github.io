@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-sidebar_link: false
+title: About Me
+sidebar_link: true
 ---
 
 Nostrud labore magna reprehenderit id mollit eiusmod ut anim ipsum magna labore pariatur tempor consectetur. Irure ad esse id duis sunt dolor veniam officia. Et ipsum ullamco nulla veniam. Commodo cillum irure ut ipsum enim labore adipisicing ipsum laborum aute est laborum culpa.

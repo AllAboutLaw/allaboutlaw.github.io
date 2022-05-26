@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Establisment of Contracts
+title: Establishment of Contracts
 categories:
   - Private Law
 tags:
-  - contract
+  - contracts
   - law of obligations
   - private law
   - benefits of persons
