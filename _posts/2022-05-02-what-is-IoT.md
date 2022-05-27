@@ -17,13 +17,13 @@ comments: false
 The word "things" in the term Internet of Things (IoT) refers to machines or devices embedded with sensors that collect, store and analyze information. When these objects are connected to the Internet and a central data server, they can upload this data for further processing and leverage it to facilitate many tasks to be performed.
 An object need not have super storage or supercomputer inside; it just needs to be able to connect to them.
 
-***What Are The Usage Areas of Internet of Things?***
+### What Are The Usage Areas of Internet of Things?
 
 In addition to smartphones, laptops, coffee machines, refrigerators, personal devices such as Google Home, Apple Watch and Fitbit are among the devices supported by the Internet of Things.These and many other objects that we use in our daily life are getting smarter day by day as they collect and exchange data over the internet.
 
 Sensors monitor things like lighting, temperature, energy use. By processing this sensor data, smart algorithms can manage energy use much more effectively than humans can, saving costs and energy.Besides that With the sensors that collect very important information about the environment, natural disasters such as earthquakes and tsunamis can be detected in advance (in such cases, even seconds are important) and thus human lives can be saved. These are just a few examples. As mentioned above, IoT is in our daily lives.
 
-***Data Privacy In IoT***
+### Data Privacy In IoT
 
 Although IoT makes daily life easier, it also brings some problems. One of the main problems is data privacy. IoT usually involves the processing of personal data relating to specific or identifiable natural persons and is therefore considered personal data under GDPR. In some cases it is hard to know what data is collected, how it is processed and where it is transferred. 
 

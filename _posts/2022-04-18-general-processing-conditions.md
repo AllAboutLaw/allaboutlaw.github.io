@@ -23,11 +23,11 @@ The law gives to the parties the freedom of contract. That means, the parties' a
 
 As a matter of fact, with the developing technology and industry, standard contract patterns have started to be used without negotiations such as bargaining about the contract or determining the form of the contract under the name of general transaction conditions. As such, the possibility of endangering the rights of the weakest among the contracting parties may unavoidably arise. For this reason, the obligation to protect the rights of the weak party has arisen in the contracts prepared using the general transaction conditions.
 
-**What's the status of general transaction conditions according to the Law?**
+### What's the status of general transaction conditions according to the Law?
 
 According to the definition in the Code of Obligations, the general transaction conditions are the contractual provisions that one of the contracting parties prepares in advance unilaterally and abstractly to be used in many similar contracts in the future and present to the other party. In other words, general transaction conditions are prepared to regulate the content of the contract unilaterally before the conclusion of the contract. For these conditions to be qualified as general transaction conditions, matters such as the scope of these conditions, by whom they were prepared, whether they were put on paper, the type of writing, and whether they are included in the text of the contract and the form of the contract is not important. The important thing is that the general transaction conditions are put into the contract unilaterally and make it binding, and the freedom (to determine the content) of the contract is used unilaterally.
 
-**What are the protections and supervisions?**
+### What are the protections and supervisions?
 
 As we have mentioned above, to be prepared and accepted to the content of the contract without negotiation by the other party necessitates the inspection of the general transaction conditions.
 

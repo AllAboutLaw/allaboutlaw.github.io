@@ -17,7 +17,7 @@ tags:
 comments: false
 ---
 
-***What's Required For The Contract To Be Valid?***
+### What's Required For The Contract To Be Valid?
 
 The person must have the capacity to take legal action and the parties can freely determine the content of a contract within the limits prescribed by law. The subject of the contract should not be contrary to the mandatory rules of law, public order, general morality, and personal rights. Contracts made in violation of those are null and void from the moment they are made. The fact that some of the provisions in the contract are null and void does not affect the validity of others. However, if it is clear that the contract will not be made without these provisions, the entire contract will be absolutely null.
 
@@ -28,7 +28,7 @@ If the second-degree points are incompatible, the judge decides the dispute base
 
 If there is a clear disproportion between the mutual acts in a contract, if this disproportion is realized by taking advantage of the injured party's being in a difficult situation or their thoughtlessness or inexperience, the injured party may either inform the other party that it is not contractually bound, or return the performance to the contract, depending on the nature of the situation. and may request the elimination of the disproportion between the acts.
 
-***Are There Any Special Conditions/Forms For Some Contracts?***
+### Are There Any Special Conditions/Forms For Some Contracts?
 
 As a general rule the validity of the contracts is not dependent on any form.
 But sometimes the law can stipulate a special form for the contract. In this case, the form stipulated in the law for contracts is, as a rule, a form of validity. Contracts established without complying with the prescribed form do not constitute a provision.
