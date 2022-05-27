@@ -17,6 +17,9 @@ Areas of Private Law:
 * Transport Law
 * Property Law
 
-On this page, you can access articles about various topics of Law of Obligations (*esp. the contracts law*).
+<p class="message">
+On this page, you can access articles about various topics of Law of Obligations (<em>esp. contracts law</em>).
+<br>
+The law of obligations is divided into three parts: the <em>law of contract</em>, the <em>law of delict</em>, and <em>Quasi-contracts and Enrichissement Sans Cause</em>.
+</p>
 
-The law of obligations is divided into three parts: the *law of contract*, the *law of delict*, and *Quasi-contracts and Enrichissement Sans Cause*.
