@@ -11,7 +11,6 @@ tags:
  - e-Privacy Directive
  - data controller
  - data transfer
-
 comments: false
 ---
 The word "things" in the term Internet of Things (IoT) refers to machines or devices embedded with sensors that collect, store and analyze information. When these objects are connected to the Internet and a central data server, they can upload this data for further processing and leverage it to facilitate many tasks to be performed.

@@ -67,8 +67,7 @@ article + *,
   border-top: 1px solid $border-color;
   margin-top: $section-spacing;
   padding-top: $section-spacing;
-  text-align: justify !important;
-
+  
   > h2:first-child,
   > h3:first-child {
     margin-top: 0;
@@ -82,12 +81,12 @@ article + *,
   margin-top: -0.5rem;
  }
 
-.post,
-{text-align: justify;}
+.post, .category,
 .page {
   .content li + li {
     margin-top: 0.25rem;
-  }
+    }
+  text-align: justify;
 }
 
 button.disqus-load {
