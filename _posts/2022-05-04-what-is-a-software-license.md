@@ -11,8 +11,12 @@ tags:
  - copyright
  - software
  - hardware
+ - copyleft
+ - lesser general public license
+ - permissive license
+ - CLA
 comments: false
-excerpt: A software license is a contract between the entity that created an application and its end-user. To protect your code and your organization, you need to understand the software licenses before using any code, including libraries and frameworks, you didn’t write yourself. In this post, you will learn the basics and types of software licenses.
+excerpt: A software license is a contract between the entity or a developer that created an application and its end-user. To protect your code, you need to understand the software licenses before using any code, including libraries and frameworks, you didn’t create. In this post, you will learn the basics and types of software licenses.
 ---
 Before learning software licenses, we need to know the definition of software. ***Software*** is a set of data or programs used to operate and develop electronic devices that execute various tasks. It has a different task than *hardware* that the system is built. As a definition you can find in a dictionary software is all of the programs, programming languages and documentation used in computing and giving life to hardware in a computer.
 
@@ -55,3 +59,5 @@ Here are a few types of common software license models you should know as a deve
 
  The examples given above belong to FOSS. Lastly, I would like to give an example of Non-free license.
  * **Proprietary:** Proprietary software is also known as non-free or closed-source software. It is the opposite of open-source or free software. It reserves some licensing rights to use, and modify. That means, it makes illegal to copy, modify or distribute. Without acceptance of the license, the end-user may not use the software at all. 
+
+ <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Software_Categories_expanded.svg/300px-Software_Categories_expanded.svg.png" alt="allaboutlaw.github.io"> -->
