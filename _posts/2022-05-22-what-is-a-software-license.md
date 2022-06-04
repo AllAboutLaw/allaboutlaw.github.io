@@ -46,8 +46,8 @@ Two common categories for software with licenses which grant the licensee specif
 FOSS software licenses both rights to the customer and therefore bundles the modifiable source code with the software (open-source). Proprietary software typically does not license these rights and therefore keeps the source code hidden (closed source).
 
 Open source communities require contributors to affirm their right to contribute code through legally binding contributor license agreements (CLA):
-* **Individual CLA:** signed by an individual developer who directly contributes code to an open source project.
-* **Corporate CLA:** signed by a corporation that employs groups of developers contributing to an open source project which offers additional indemnification to an open source foundation against future corporate copyright claims.
+* **Individual CLA:** Signed by an individual developer who directly contributes code to an open source project.
+* **Corporate CLA:** Signed by a corporation that employs groups of developers contributing to an open source project which offers additional indemnification to an open source foundation against future corporate copyright claims.
 * **Software Grant Agreement (SGA):** Used when a large volume of code is donated to a foundation by a developer or entity to further bar future copyright claims once code is contributed.
 * **Developer Certificate of Origin (DCO):** A less formal copyright agreement introduced by Linux and favored over SLAs by some open source companies. DCO  attests that developers have the right to contribute code and it is their original creation.
 
