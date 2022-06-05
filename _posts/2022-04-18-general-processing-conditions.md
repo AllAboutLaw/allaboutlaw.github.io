@@ -14,6 +14,7 @@ tags:
   - prohibition of replacement
   - supervisions
   - contract law
+excerpt: Even though General Processing Conditions are a new concept that is regulated recently we used them without regulation in the Code of Obligations No. 818. The practice of the Supreme Court has been instructive in this issue before the new Code of Obligations. In this article, we briefly mention its usage areas and legal status.
 comments: false
 ---
 

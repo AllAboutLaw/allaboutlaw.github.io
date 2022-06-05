@@ -15,7 +15,7 @@ tags:
   - proposal
   - declaration of acception
   - declaration of will
-
+excerpt: A contract can be made for various purposes.You may have obligations under a contract, or you may have the opportunity to claim a right.In order to claim your rights, we must be able to talk about a valid contract. But before that, we need to know the essentials of a contract.
 comments: false
 ---
 

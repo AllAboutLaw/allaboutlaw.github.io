@@ -9,6 +9,7 @@ tags:
  - big data
  - deep learning
  - data privacy
+excerpt: It is a concept that is developing rapidly and we cannot predict where it will stop. This creates question marks in minds and causes various things to be written about it, from engineering to law. Even in literature, various stories and horror novels have been written about it. Unfortunately, we didn't talk about novels in this article. I'm planning to make a series about this topic because there are so many things to talk about it. After all, AI is everywhere.
 comments: false
 ---
 For centuries, people have wanted machines that could act and think like themselves. In the 1600s, Gottfried Wilhelm Leibniz was a pioneer in the field of mechanical calculators. He was the first to describe a pinwheel calculator in 1685 and invented the Leibniz wheel, used in the arithmometer, the first mass-produced mechanical calculator. In 1950, English mathematician Alan Turing, wondering if a machine could think, asked the famous question: "How can we tell if a machine is thinking?" The field of modern artificial intelligence began to take shape soon after, in 1956, when a group of Dartmouth University scientists predicted that a machine as intelligent as humans could be built in the next generation.

@@ -12,8 +12,7 @@ tags:
   - private law
   - signatures
   - signatures substitutes
-
-
+excerpt: In our previous articles, we talked about the basis of contracts. Now let's look at another important issue, what it takes for a contract to be valid.
 comments: false
 ---
 

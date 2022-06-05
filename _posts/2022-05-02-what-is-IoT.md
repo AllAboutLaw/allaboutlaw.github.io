@@ -11,6 +11,7 @@ tags:
  - e-Privacy Directive
  - data controller
  - data transfer
+excerpt: The main concept of a network of smart devices was discussed as early as 1982, with a modified Coca-Cola vending machine at Carnegie Mellon University becoming the first ARPANET-connected appliance. However, the field of IoT has evolved due to the convergence of multiple technologies, including ubiquitous computing, commodity sensors, increasingly powerful embedded systems, and machine learning. It is connected with the concept of AI. So the series is ongoing with IoT.
 comments: false
 ---
 The word "things" in the term Internet of Things (IoT) refers to machines or devices embedded with sensors that collect, store and analyze information. When these objects are connected to the Internet and a central data server, they can upload this data for further processing and leverage it to facilitate many tasks to be performed.

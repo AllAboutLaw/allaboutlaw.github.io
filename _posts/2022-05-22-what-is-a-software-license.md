@@ -40,6 +40,8 @@ Software license agreements seek to protect the rights of both parties (users an
 * Preventing overspending on licenses by establishing clear parameters of how many licenses an organization needs.
 
 ### What are the Types of Software Licenses?
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Software_Categories_expanded.svg/300px-Software_Categories_expanded.svg.png" alt="allaboutlaw.github.io">
+  <p style="font-size:9.5px;"><em>Source: https://en.wikipedia.org/wiki/File:Software_Categories_expanded.svg</em></p>
 
 Two common categories for software with licenses which grant the licensee specific rights are proprietary software and free and open-source software (FOSS). The difference between the two is the granting of rights to modify and re-use a software product obtained by a customer.
 
@@ -60,4 +62,3 @@ Here are a few types of common software license models you should know as a deve
  The examples given above belong to FOSS. Lastly, I would like to give an example of Non-free license.
  * **Proprietary:** Proprietary software is also known as non-free or closed-source software. It is the opposite of open-source or free software. It reserves some licensing rights to use, and modify. That means, it makes illegal to copy, modify or distribute. Without acceptance of the license, the end-user may not use the software at all. 
 
- <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Software_Categories_expanded.svg/300px-Software_Categories_expanded.svg.png" alt="allaboutlaw.github.io"> -->

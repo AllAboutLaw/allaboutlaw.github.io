@@ -14,7 +14,7 @@ tags:
 excerpt: This post is aimed to make the subject more understandable for software developers and users by comparing free and open-source software licenses.
 comments: false 
 ---
-In another article, we explained what software licenses are and how they are used.(<a href= "https://allaboutlaw.github.io/it%20law/2022/05/22/what-is-a-software-license.html">Here</a>) It can be complicated because of some similarities. I believe, If we do a comparison between them, you can understand easily which one benefits you.
+In another article, we explained what software licenses are and how they are used (<a href= "https://allaboutlaw.github.io/it%20law/2022/05/22/what-is-a-software-license.html">Here</a>). It can be complicated because of some similarities. I believe, if we do a comparison between them, you can understand easily which one benefits you.
 
 <table>
 <tr>
@@ -118,9 +118,10 @@ In another article, we explained what software licenses are and how they are use
     <td>No</td>
   </tr>
 </table>
+<p style="font-size:9.5px;"><em>Source:https://choosealicense.com/licenses/</em></p>
 <p class=message
   style="font-size:85%;">
-<b>Linking:</b> Linking of the licensed code with code licensed under a different license 
+<b>Linking:</b> licensed under a different license 
 <br>
 <b>Distribution:</b> Distribution of the code to third parties
 <br>
@@ -133,6 +134,7 @@ In another article, we explained what software licenses are and how they are use
 <b>Sublicensing:</b> Whether modified code may be licensed under a different license or must retain the same license under which it was provided
 <br>
 <b>Trademark Grant:</b> Use of trademarks associated with the licensed code or its contributors by a licensee
+<br>
 </p>
 
 In addition to the above table, it would be helpful to look at the differences between copyleft and permissive license for a better understanding of the subject.
