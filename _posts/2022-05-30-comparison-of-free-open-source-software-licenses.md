@@ -14,9 +14,10 @@ tags:
 excerpt: This post is aimed to make the subject more understandable for software developers and users by comparing free and open-source software licenses.
 comments: false 
 ---
-In another article, we explained what software licenses are and how they are used (<a href= "https://allaboutlaw.github.io/it%20law/2022/05/22/what-is-a-software-license.html">Here</a>). It can be complicated because of some similarities. I believe, if we do a comparison between them, you can understand easily which one benefits you.
+In another article, we explained what software licenses are and how they are used (<a href= "https://allaboutlaw.github.io/it%20law/2022/05/22/what-is-a-software-license.html" target="_blank">Here</a>). It can be complicated because of some similarities. I believe, if we do a comparison between them, you can understand easily which one benefits you.
 
-<table>
+<div class="table-wrapper">
+  <table>
 <tr>
     <th>License</th>
     <th>Linking</th>
@@ -118,6 +119,8 @@ In another article, we explained what software licenses are and how they are use
     <td>No</td>
   </tr>
 </table>
+</div>
+
 <p style="font-size:9.5px;"><em>Source:https://choosealicense.com/licenses/</em></p>
 <p class=message
   style="font-size:85%;">
@@ -138,6 +141,8 @@ In another article, we explained what software licenses are and how they are use
 </p>
 
 In addition to the above table, it would be helpful to look at the differences between copyleft and permissive license for a better understanding of the subject.
+
+<div class="table-wrapper">
 <table>
 <tr>
     <th>Permissive License</th>
@@ -159,3 +164,5 @@ In addition to the above table, it would be helpful to look at the differences b
     <td>Examples:  <em>MIT License, Boost Software License (BSL),  Apache License 2.0,  Berkeley Source Distribution (BSD)  License</em> </td>
     <td> Examples: <em>GPL v2 and GPL v3, Affero GPL License (AGPL), Mozilla Public License 2.0,  CDDL (Common Development and Distribution License), Creative Commons (CC) license.</em> </td>
     </tr>
+    </table>
+    </div>

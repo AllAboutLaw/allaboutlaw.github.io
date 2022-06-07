@@ -63,6 +63,11 @@ table {
   margin-bottom: 1rem;
   width: 100%;
 }
+div.table-wrapper {
+  max-width: 100%;
+  overflow: auto;
+  text-align: left;
+}
 
 td,
 th {
